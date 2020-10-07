@@ -1,0 +1,8 @@
+*.deb
+*.pyc
+.idea
+*.env
+*.log
+*.pid
+.DS_Store
+venv/
