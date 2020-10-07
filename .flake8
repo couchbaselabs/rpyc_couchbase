@@ -1,0 +1,4 @@
+[flake8]
+ignore = F403, I202, W504
+import-order-style = pep8
+max-line-length = 79
